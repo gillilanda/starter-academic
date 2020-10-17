@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Amy Gillilans's first post!!!"
+title: "Test Post"
 subtitle: "test test test"
-summary: "This is a test post."
+summary: "test test"
 authors: []
-tags: [coursework]
+tags: [research]
 categories: []
-date: 2020-10-12T11:58:54-07:00
-lastmod: 2020-10-12T11:58:54-07:00
+date: 2020-10-13T20:27:26-07:00
+lastmod: 2020-10-13T20:27:26-07:00
 featured: false
 draft: false
 
@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+This is a test post for the fieldwork page.

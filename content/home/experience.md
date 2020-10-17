@@ -18,27 +18,45 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Assistant Mapping Geologist"
+  company = "Washington Geological Survey"
+  company_url = "https://www.dnr.wa.gov/geology"
+  location = "Ellensburg, Washington"
+  date_start = "2020-07-27"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+  * Geologic data collection & interpretation
+  * Gravity data acquisition
+  * Remote sensing of geomorphic features
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Graduate Teaching Assistant"
+  company = "Central Washington University"
+  company_url = "http://www.geology.cwu.edu/"
+  location = "Ellensburg, Washington"
+  date_start = "2018-09-01"
+  date_end = "2020-07-25"
+  description = """Assisted with instruction and grading of mulitple undergradute courses including:
+  * Quantitative Methods in Geology
+  * Senior Field Methods
+  * Sedimentology and Stratigraphy
+  * Introductory Geology Lab
+  """
+
+[[experience]]
+  title = "Renewable Energy Intern"
+  company = "Puget Sound Energy"
+  company_url = "https://www.pse.com/pages/tours-and-recreation/wild-horse"
+  location = "Ellensburg, Washington"
+  date_start = "2018-03-01"
+  date_end = "2018-11-20"
+  description = """Effectively communicated the science of wind turbines and the mission of Puget Sound Energy to visitors while giving tours of the facility and into an operational wind turbine.
+
+  """
+
+
 
 +++

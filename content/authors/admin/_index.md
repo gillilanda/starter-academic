@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Amy Gilliland
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Mapping Geologist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Washington Geologic Survey
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Landscape Evolution
+- Geomorphology
+- Glaciology
+- Remote Sensing
+- Science Communication
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Geological Sciences
+    institution: Central Washington University
+    year: Expected Winter 2021
+  - course: BS in Geological Sciences
+    institution: Central Washington University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +43,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: mailto:GillilandA@cwu.edu
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/amy-gilliland-723b75184/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/gillilanda
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,11 +64,11 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Amy Gilliland is an Assistant Mapping Geologist with the Washington Geological Survey. In the field, her responsibilities include assisting the lead geologist with geologic data collection, geologic landscape interpretation, and geophysical data acquisition in Kittitas County, WA as part of the STATEMAP program. Additional responsibilities include remote sensing of the landscape using ArcGIS with an emphasis on landslides, escarpments, and other quaternary features.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Amy is also a graduate student with Central Washington University’s Geological Science Department. Her research involves investigating the spatial variations of surface morphology in the Transantarctic Mountains, Antarctica to improve scientific understanding of climate and tectonic events. She expects to graduate with her M.S. in Winter 2021.
