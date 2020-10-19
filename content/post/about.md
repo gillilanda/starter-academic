@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Amy Gillilans's first post!!!"
+title: "Amy Gilliland's test post"
 subtitle: "test test test"
 summary: "This is a test post."
 authors: []
@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+test post content ORIGINAL POST.

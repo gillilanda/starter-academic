@@ -21,11 +21,14 @@ organizations:
 bio:
 
 interests:
-- Landscape Evolution
-- Geomorphology
-- Glaciology
-- Remote Sensing
 - Science Communication
+- Remote Sensing
+- Landscape Evolution
+- Glaciology
+- Geomorphology
+
+
+
 
 education:
   courses:

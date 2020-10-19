@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "CWU Geology Department Awards"
-  organization_url = "https://www.coursera.org"
+  organization_url = ""
   title = "Outstanding Teaching Assistant"
   url = ""
   certificate_url = ""

@@ -1,23 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Test Post"
-subtitle: "test test test"
-summary: "test test"
+title: "Geodesy of South Sister Volcano, OR "
+subtitle: " Sep. 15-18 2018"
+summary: " "
 authors: []
-tags: [research]
+tags: [coursework]
 categories: []
 date: 2020-10-13T20:27:26-07:00
 lastmod: 2020-10-13T20:27:26-07:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  placement: 1
+  caption: "Amy sitting next to geodetic GPS equipment."
+  focal_point: "Center"
   preview_only: false
 
 # Projects (optional).
@@ -27,4 +29,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-This is a test post for the fieldwork page.
+This is a test post for the fieldwork page. Test.
